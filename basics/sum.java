@@ -5,6 +5,6 @@ void main()
     int a  =5;
     int b=3;
     s=a+b;
-    System.out.println(s);// printed a sum JUST fOR fUN
+    System.out.println(s);// my first code
 }
 //OUTPUT: 8
